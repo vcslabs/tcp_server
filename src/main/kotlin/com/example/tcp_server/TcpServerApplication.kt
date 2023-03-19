@@ -8,4 +8,5 @@ class TcpServerApplication
 
 fun main(args: Array<String>) {
     runApplication<TcpServerApplication>(*args)
+    println("**start**")
 }
